@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.parent{
+    width:600px;
+    height:400px;
+    background-color: blueviolet;
+}
+.child1{
+    width:60px;
+    height:40px;
+    background-color: green; 
+    display: inline-block; 
+}
+.child2{
+    width:60px;
+    height:40px;
+    background-color: red;
+    display: inline-block;
+}

@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.parent {
+  width: 100%;
+  height: 1200px;
+  background-color: black;
+  border: 2px solid green;
+}
+.parent1 {
+  width: 30%;
+  height: 200px;
+  border: 2px solid purple;
+  background-color: aqua;
+  margin: 20px;
+}
+.child1 {
+  width: 15%;
+  height: 50px;
+  background-color: red;
+  position:fixed;
+  top:0;
+  left:0;
+}
+.child2 {
+  width: 15%;
+  height: 50px;
+  background-color: blue;
+  /* position:relative;
+  top:20px;
+  right:10px; */
+  /* position:absolute;
+  top:0;
+  left:0; */
+  /* position:fixed;
+  top:0;
+  left:0; */
+  /* position:sticky;
+  top:0; */
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:1;
+}
+.child3 {
+  width: 15%;
+  height: 50px;
+  background-color: yellowgreen;
+  position:fixed;
+  top:0;
+  left:0;
+}

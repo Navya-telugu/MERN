@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  width: 300px;
+  height: 400px;
+  background-color: cyan;
+  /* position: relative; */
+  background-image: url("./images/download.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+.main-img {
+  width: 100%;
+  /* position: absolute; */
+}
+h3{
+    /* position: absolute;  */
+}

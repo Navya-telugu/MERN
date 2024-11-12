@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  height: 500px;
+  width: 100%;
+  background-color: black;
+}
+@media(max-width:360px){
+    .main{
+        background-color: aqua;
+    }
+}
+@media (min-width: 360px) and (max-width:768px) {
+  .main {
+    background-color: plum;
+  }
+}

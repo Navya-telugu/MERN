@@ -1,0 +1,14 @@
+{
+  "name": "mongobd-thorabh",
+  "version": "1.0.0",
+  "description": "Learning how to connect mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navya Charitha",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.8.0"
+  }
+}

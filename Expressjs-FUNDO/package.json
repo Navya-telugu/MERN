@@ -1,0 +1,15 @@
+{
+  "name": "expressjs-thorabh",
+  "version": "1.0.0",
+  "description": "Learning express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  }
+}
